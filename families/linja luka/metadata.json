@@ -1,0 +1,50 @@
+{
+	"name": "linja luka",
+	"designer": "jan Pensamin/jan Melon",
+	"license": "OFL-1.0",
+	"category": "LINJA_LUKA",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja luka",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "linja-luka.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/janMelon/linja-luka",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "font-files/linja-luka-1.0.otf",
+				"destFile": "linja-luka.otf"
+			}
+		]
+	},
+	"version": "1.0",
+	"lastUpdated": "2022-03-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linja-luka.otf",
+			"generatedFileName": "linja-luka.otf"
+		},
+		{
+			"forFilename": "linja-luka.otf",
+			"generatedFileName": "linja-luka.woff"
+		},
+		{
+			"forFilename": "linja-luka.otf",
+			"generatedFileName": "linja-luka.woff2"
+		}
+	]
+}
